@@ -1,4 +1,4 @@
-# Mashahir_rag_2
+# Iranian celebrities multimodal RAG
 
 A research-grade Retrieval-Augmented Generation (RAG) system for answering questions about notable figures in Iran’s history and culture. The project supports **unimodal (text-only)** and **multimodal (text+image)** pipelines, with evaluation on both **multiple-choice (MCQ)** and **open-ended (without options)** question sets.
 
@@ -1168,3 +1168,13 @@ Licensed under the MIT License.
 ---
 
 Thanks for reading! If you spot issues, please open a GitHub issue with a minimal reproducible example (data row, question, and the exact command/cell you ran).
+
+---
+
+## Team:
+
+- **Sina Beyrami**
+- **Sina Daneshgar**
+- **Elahe Zahiri**
+- **Maryam Borzoo**
+- **Elahe Farshadfar**
