@@ -1,0 +1,6 @@
+category,records,records_with_images,with_images_%,best_score_mean,best_score_median
+art_music,468.0,467.0,99.79,0.989,1.0
+athlete,2329.0,2277.0,97.77,0.97,1.0
+poets,203.0,203.0,100.0,0.995,1.0
+politicians,981.0,981.0,100.0,0.994,1.0
+scientists,111.0,111.0,100.0,0.997,1.0

@@ -1,0 +1,5 @@
+﻿set,n,accuracy
+multi_mcq,50,0.66
+multi_noopt,50,0.12
+text_mcq,90,0.566667
+uni_noopt,110,0.445455

@@ -1,0 +1,2 @@
+accuracy,precision,recall,hit@1,hit@3,total_questions
+30.0,0.09333333333333334,0.26,0.14,0.26,50

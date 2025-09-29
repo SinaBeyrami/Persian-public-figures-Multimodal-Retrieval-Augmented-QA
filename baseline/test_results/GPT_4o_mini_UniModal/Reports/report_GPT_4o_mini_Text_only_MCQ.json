@@ -1,0 +1,36 @@
+{
+  "model": "GPT_4o",
+  "overall": {
+    "micro_accuracy": 0.0,
+    "macro_accuracy": 0.0,
+    "n_samples": 90
+  },
+  "by_category": [
+    {
+      "category": "art_music",
+      "accuracy": 0.0,
+      "n": 24
+    },
+    {
+      "category": "athlete",
+      "accuracy": 0.0,
+      "n": 48
+    },
+    {
+      "category": "poets",
+      "accuracy": 0.0,
+      "n": 11
+    },
+    {
+      "category": "politicians",
+      "accuracy": 0.0,
+      "n": 3
+    },
+    {
+      "category": "scientists",
+      "accuracy": 0.0,
+      "n": 4
+    }
+  ],
+  "n_errors": 90
+}

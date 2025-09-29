@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-09-15T23:58:46",
+  "num_questions": 90,
+  "entity_detection_skipped": 8,
+  "entity_hit_at_k": {
+    "hit@1": 0.811,
+    "hit@3": 0.844,
+    "hit@5": 0.844,
+    "hit@10": 0.856
+  },
+  "answer_hit_at_k": {
+    "hit@1": 0.678,
+    "hit@3": 0.711,
+    "hit@5": 0.722,
+    "hit@10": 0.744
+  },
+  "k_values": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "index_path": "/content/rag_out/faiss_text.idx",
+  "embeds_path": "/content/rag_out/text_embeds.npy"
+}

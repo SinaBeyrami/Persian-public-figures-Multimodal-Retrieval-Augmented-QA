@@ -1,0 +1,353 @@
+[
+    {
+        "question": "این چهره ی چه کسی است؟",
+        "image_url": "https://th.bing.com/th/id/R.f19cd7c574fb1ceb37d0dd7557333735?rik=lLL0kQFoooPrMA&pid=ImgRaw&r=0",
+        "answer": "علی دایی",
+        "answer_name": "علی دایی",
+        "category": "athlete"
+    },
+    {
+        "question": "این چهره ی چه کسی است؟",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.jYgq1FpWPqXFzJozqYAbaAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "آرین سلیمی",
+        "answer_name": "آرین سلیمی",
+        "category": "athlete"
+    },
+    {
+        "question": "این چهره ی چه کسی است و در چه تیمی بازی کرده است؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.HWeitJoEEB6czPH9_vBFnAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "امیر عابدزاده، پرسپولیس",
+        "answer_name": "امیر عابدزاده",
+        "category": "athlete"
+    },
+    {
+        "question": "این چهره ی چه کسی است و در چه رشته ای فعالیت میکند؟",
+        "image_url": "https://th.bing.com/th/id/R.57c6d4b5dd95b0ab883305644766e509?rik=pe6okxuixqaihQ&pid=ImgRaw&r=0",
+        "answer": "رزیتا علیپور، کاراته",
+        "answer_name": "رزیتا علیپور",
+        "category": "athlete"
+    },
+    {
+        "question": "این چهره ی چه کسی است و در چه رشته ای فعالیت میکند؟",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTki6HUgVMRWmY45IOq6J4UztzI5P7hMyfaTg&s",
+        "answer": "حامد حدادی ، بسکتبال",
+        "answer_name": "حامد حدادی",
+        "category": "athlete"
+    },
+    {
+        "question": "این چهره ی چه کسی است و در کجا متولد شده است؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.nU_OzOvZ6YmVGsrnEwkJfAHaFk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "بهروز مکوندی، مسجدسلیمان",
+        "answer_name": "بهروز مکوندی",
+        "category": "athlete"
+    },
+    {
+        "question": "این فرد چه کسی است و در چه تیمی بازی کرده است؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.99bDP9MqeM01dUFJwcS5JQHaGL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer":"زهره کودایی سپاهان",
+        "answer_name": "زهره کودایی",
+        "category": "athlete"
+    },
+    {
+        "question": "این فرد چه کسی است؟",
+        "image_url": "https://th.bing.com/th/id/R.0041d3d9cef0a1d121c4a610b90e36cc?rik=e5XMOU%2bP0YtBKw&riu=http%3a%2f%2fwww.parvaresheafkar.com%2fwp-content%2fuploads%2f2018%2f07%2fReza-Yazdani-24.jpg&ehk=6pBqo35rfX9r5HqlOSJJk06OEYe57NejQEbzbs%2fMfiQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "answer":"رضا یزدانی",
+        "answer_name": "رضا یزدانی",
+        "category": "athlete"
+    },
+    {
+        "question": "این فرد چه کسی است و در چه رشته ای بازی میکند؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.UnmNcdG5ULdYoUDye-VChAHaFG?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer":"رضا حقیقی فوتبال",
+        "answer_name": "رضا حقیقی",
+        "category": "athlete"
+    },
+    {
+        "question": "این فرد چه کسی است و در کجا متولد شده است؟",
+        "image_url": "https://th.bing.com/th/id/R.187bbebdf8a9c7f626a0337b6229ccec?rik=uKkLXodBbhlH9Q&pid=ImgRaw&r=0",
+        "answer":"فرشاد احمدزاده ارومیه",
+        "answer_name": "فرشاد احمدزاده",
+        "category": "athlete"
+    },
+    {
+        "question": "فردی که در تصویر است چه کسی است در چه تیم هایی بازی کرده است؟",
+        "image_url": "https://th.bing.com/th/id/R.70cd6788173c6370fe61bee178841b79?rik=vVEsG%2b4ek8FsVw&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "answer":"علیرضا منصوریان بالستیر گیلانگ",
+        "answer_name": "علیرضا منصوریان",
+        "category": "athlete"
+    },
+    {
+        "question": "این استادبزرگ شطرنج در کجا متولد  شده است؟",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.y9VAAtWqiE2cGNB1H_2jXAHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer":"تهران",
+        "answer_name": "الشن مرادی",
+        "category": "athlete"
+    },
+    {
+        "question": "نام و رشته ی ورزشی این فرد چیست؟",
+        "image_url": "https://www.wwe.com/f/styles/talent_champion_xl/public/all/2019/12/Ariya_Daivari_Pro--2478ed8b72ef28afc706786f23e365a5.png",
+        "answer":"آریا داوری کشتی",
+        "answer_name": "آریا داوری",
+        "category": "athlete"
+    },
+    {
+        "question": "نام و سن این فرد چیست؟",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.O4akfyyFPkQpa0cF-ZwdhgHaEl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer":"علی علیپور 29 سال",
+        "answer_name": "علی علیپور",
+        "category": "athlete"
+    },
+    {
+        "question": "فردی که در تصویر است چه کسی است؟",
+        "image_url": "https://tse2.mm.bing.net/th/id/OIP.gvGKE6y8v7rzVLqEg-Q1ngHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer":"علی شفیعی",
+        "answer_name": "علی شفیعی",
+        "category": "athlete"
+    },
+    {
+        "question": "نام و رشته ی ورزشی این فرد چیست؟",
+        "image_url": "https://th.bing.com/th/id/R.27d5e77674dd8e33a13543d12cc74c14?rik=eki3Mdcb%2fEyL7Q&pid=ImgRaw&r=0",
+        "answer":"الهام فلاح والیبال",
+        "answer_name": "الهام فلاح",
+        "category": "athlete"
+    },
+    {
+        "question": "این چهره ی چه کسی است و در کجا متولد شده است؟",
+        "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx9KQnt6kW9EWatppcJLGVtqkHF98prQ4aK5-4BBUTTTSDloJX",
+        "answer":"سردار آزمون گنبد کاووس",
+        "answer_name": "سردار آزمون",
+        "category": "athlete"
+    },
+    {
+        "question":"نام و رشته ی ورزشی این فرد چیست؟",
+        "image_url": "https://tse4.mm.bing.net/th/id/OIP.yCtnWvn5riSF3HrY-wsCBAHaFa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "رامین رضاییان فوتبال",
+        "answer_name": "رامین رضاییان",
+        "category": "athlete"
+    },
+    {
+        "question":"این چهره ی چه کسی است؟",
+        "image_url": "https://th.bing.com/th/id/R.c2a19d01aaae453d47e53eee49d895f1?rik=Z2Z5Yj%2f3vNBkvA&pid=ImgRaw&r=0",
+        "answer": "رحمان احمدی",
+        "answer_name": "رحمان احمدی",
+        "category": "athlete"
+    },
+    {
+        "question":"نام این فرد چیست و در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.eH2W9QEttNzFORPGnT5qmAHaHJ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "رعنا آزادیور زخم کاری",
+        "answer_name": "رعنا آزادیور",
+        "category": "art_music"
+    },
+    {
+        "question":"نام این فرد چیست و در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.wTv1ZDsK6QEbw3zhHMJdOAHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "رضا عطاران کلید ازدواج",
+        "answer_name": "رضا عطاران",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد کیست و در چه زمینه ای فعالیت داشته است؟",
+        "image_url": "https://i.zamaneh.media/u/wp-content/uploads/2023/03/8sB1xib.jpeg?width=1600",
+        "answer": "نیما یوشیج شاعر",
+        "answer_name": "نیما یوشیج",
+        "category": "poets"
+    },
+    {
+        "question":"این فرد در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://th.bing.com/th/id/OIP.h7ntoG76ILPRHNDIL9eX4QHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "لذت گناه",
+        "answer_name": "",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد در چه زمینه ای فعالیت دارد و چه جایزه ای برده است؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.moUrQ-zi0k6Tg4eKzpK9IwHaJM?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "بازیگر جایزه امی",
+        "answer_name": "شهره آغداشلو",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد در چه زمینه ای فعالیت دارد و چه جایزه ای برده است؟",
+        "image_url": "https://th.bing.com/th/id/R.8b4a52ba89961896d18613f35096e4b7?rik=lID6hxx8Fu7j7w&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "answer": "ادبیات نامزد جایزه نوبل ادبیات",
+        "answer_name": "سیمین بهبهانی",
+        "category": "poets"
+    },
+    {
+        "question":"نام این فرد چیست و در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://tse4.mm.bing.net/th/id/OIP.asCQmagGF0B8sBJH2rn8mAHaJO?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "الناز شاکردوست شبی که ماه کامل شد",
+        "answer_name": "الناز شاکردوست",
+        "category": "art_music"
+    },
+    {
+        "question":"نام این فرد چیست و در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.wHlmXn_JJW9lhdz-RXvpXgHaKU?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "الهام حمیدی دو دوست",
+        "answer_name": "الهام حمیدی",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد چه کسی است و در چه زمینه ای فعالیت دارد؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.0SodOeiZfiitss2ADxrPngHaFJ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "مازیار فلاحی خواننده",
+        "answer_name": "مازیار فلاحی",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد چه کسی است و در چه زمینه ای فعالیت دارد؟",
+        "image_url": "https://th.bing.com/th/id/R.d2809c25a8599b09b8e020b498a83fd0?rik=1VGY1AJ3Y9lsVg&riu=http%3a%2f%2fwww.wikijoo.ir%2fimages%2fthumb%2ff%2ff0%2f41020400-1.jpg%2f600px-41020400-1.jpg&ehk=IOMjGjCOgkLoenDNsvUGYYzaZzcdKJzExP0u2cCr%2fxk%3d&risl=&pid=ImgRaw&r=0",
+        "answer": "اکبر هاشمی رفسنجانی سیاسی",
+        "answer_name": "اکبر هاشمی رفسنجانی",
+        "category": "politicians"
+    },
+    {
+        "question":"این فرد کیست و چه فعالیتی داشته است؟",
+        "image_url": "https://static.wikia.nocookie.net/totalwar-ar/images/1/13/Mostafa_Chamran.jpg/revision/latest/smart/width/386/height/259?cb=20140713214752",
+        "answer": "مصطفی چمران، نماینده دوره نخست مجلس شورای اسلامی",
+        "answer_name": "مصطفی چمران",
+        "category": "politicians"
+    },
+    {
+        "question":"این فرد چه کسی است و در چه زمینه ای فعالیت دارد؟",
+        "image_url": "https://tse2.mm.bing.net/th/id/OIP.OHU2Io2IHVVf2OXiZ8Cq_QHaHa?r=0&pid=ImgDet&w=474&h=474&rs=1&o=7&rm=3",
+        "answer": "میترا حجار بازیگر",
+        "answer_name": "میترا حجار",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد چه کسی است و در چه زمینه ای فعالیت دارد؟",
+        "image_url": "https://cdn.rokna.net/thumbnail/72c525pG8oa3/yYGYIWiRH1jE7SFsFf8OS8GtVdPr30fs0wJj5HjN1IuvcJmljcN6H8bAsgVZzpzYCc2Paf9tWNy3TqJ7J2yYx6_iJ_9nS3dv9VaDD9pzMsmGiYQZhOmIlhgOn3kc4a2c2ldXQX3GVsuvtfuJ1_NwVg,,/%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86+%D9%81%D8%B1%D8%AE%D8%B2%D8%A7%D8%AF.jpg",
+        "answer": "فریدون فرخزاد شاعر",
+        "answer_name": "فریدون فرخزاد",
+        "category": "poets"
+    },
+    {
+        "question":"نام این فرد چیست و در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Leila_Hatami_in_2017_01.jpg",
+        "answer": "لیلا حاتمی رگ خواب",
+        "answer_name": "لیلا حاتمی",
+        "category": "art_music"
+    },
+    {
+        "question":"نام این فرد چیست و در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.YVmg2rPvhMdatQt8aWucLAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "مهناز افشار آتش بس",
+        "answer_name": "مهناز افشار",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد چه کسی است و در چه زمینه ای فعالیت دارد؟",
+        "image_url": "https://tse2.mm.bing.net/th/id/OIP.tlCNcmVIbFDNwmBhnWkOugHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "بهرام رادان بازیگر",
+        "answer_name": "بهرام رادان",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد در چه فیلمی ایفای نقش کرده است؟",
+        "image_url": "https://tse1.explicit.bing.net/th/id/OIP.iZg_c-rdLg_XVFNVUiR5AAHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "درباره الی",
+        "answer_name": "صابر ابر",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد در کجا ترور شده است؟",
+        "image_url": "https://th.bing.com/th/id/R.eec2e9e3533f78d1841df0b43b9dca8c?rik=Jz0gZWC8VG8z6Q&riu=http%3a%2f%2fwww.iichs.ir%2fUpload%2fImage%2f139404%2fOrginal%2f1a43399f_b798_495b_9e50_79e2bd61a9a7.jpg&ehk=GuDDfeZ56jJuDGXnlEoN2QztolfdYVWoUwUM9K1BFbI%3d&risl=&pid=ImgRaw&r=0",
+        "answer": "در خانه اش",
+        "answer_name": "",
+        "category": "politicians"
+    },
+    {
+        "question":"این فرد در چه سالهایی رئیس جمهور بوده است؟",
+        "image_url": "https://th.bing.com/th/id/R.f59e8a325435156a4f92daf8e4a2ac3c?rik=COt%2bmPO39g%2bTiw&pid=ImgRaw&r=0",
+        "answer": "رئیس‌جمهور ایران (1376 - 1384)",
+        "answer_name": "سید محمد خاتمی",
+        "category": "politicians"
+    },
+    {
+        "question":"این فرد چه کسی است؟",
+        "image_url": "https://tse4.mm.bing.net/th/id/OIP.8VXvn8OkoKC7BIj68MulpwHaKe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": " دومین رئیس‌جمهور ایران (11 اوت - 8 سپتامبر 1980). چهل و دومین نخست‌وزیر ایران (تا اوت 1980).",
+        "answer_name": "محمدعلی رجایی",
+        "category": "politicians"
+    },
+    {
+        "question":"این بازیگر چه جوایزی برده است؟",
+        "image_url": "https://tse2.mm.bing.net/th/id/OIP.3BPkGZJwP4ErAuNEGHToGwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": " کریمی برای «عروس» و «سارا» جوایز بهترین بازیگر زن از جشنواره فیلم فجر دریافت کرد",
+        "answer_name": "نیکی کریمی",
+        "category": "art_music"
+    },
+    {
+        "question":"این بازیگر چه جوایزی برده است؟",
+        "image_url": "https://th.bing.com/th/id/R.cd0ade9c5fe6de520fc7fefb708c477b?rik=0Q%2bx2IfC5z6m3w&pid=ImgRaw&r=0",
+        "answer": "موفق به دریافت سیمرغ بلورین بهترین بازیگر نقش اول مرد از جشنواره فیلم فجر برای فیلم «قرمز» (1377) شده است",
+        "answer_name": "محمدرضا فروتن",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد کیست و چه ترانه هایی برای شادمهر عقیلی منتشر کرده است؟",
+        "image_url": "https://th.bing.com/th/id/R.c564840e83062527b5ceb8c8c7be6063?rik=1LSLRM3rA%2bMe0g&riu=http%3a%2f%2fphotokade.com%2fwp-content%2fuploads%2fNiloofarLaripour-photokade-2.jpg&ehk=%2b0K90szSBPq0%2fpJmFX9X5WWZ80p%2fGzFJ%2bsxljsIoOwI%3d&risl=&pid=ImgRaw&r=0",
+        "answer": "شاعر، ترانه‌سرا و روزنامه‌نگار ایرانی است. او ترانه‌هایی مانند «بهار لبخند» (1371)، «پر پرواز»، «شب برهنه»، «دل دیوونه (شادمهر عقیلی)»، «آغوش (شادمهر عقیلی)»، «تن تو (شادمهر عقیلی)»، «قبیله (شادمهر عقیلی)»، «قفس (شادمهر عقیلی)»، «عطر شبنم (شادمهر عقیلی)» و «تو بینهایت شب (شادمهر عقیلی)» منتشر کرده است",
+        "answer_name": "",
+        "category": "art_music"
+    },
+    {
+        "question":"این خواننده در چه سریال هایی بازی کرده است؟",
+        "image_url": "https://th.bing.com/th/id/R.9066073cb3ce0030962ee24129b9903f?rik=GR4DWxquvBGyHA&pid=ImgRaw&r=0",
+        "answer": "در سریال‌هایی مانند «عاشقانه» و «مانکن» بازی کرد",
+        "answer_name": "فرزاد فرزین",
+        "category": "art_music"
+    },
+    {
+        "question":"این بازیگر در چه فیلم هایی نقش آفرینی کرده است؟",
+        "image_url": "https://th.bing.com/th?id=OIF.NvKU%2fgYlktDgUZMHWOqNcg&r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "او در فیلم‌هایی مانند «ماجرای نیمروز» در سال 1395، «اتوبوس شب» در سال 1385، و «قاعده تصادف» در سال 1391 نقش‌آفرینی کرده است",
+        "answer_name": "مهرداد صدیقیان",
+        "category": "art_music"
+    },
+    {
+        "question":"این فرد چه آلبوم هایی دارد؟",
+        "image_url": "https://th.bing.com/th/id/R.28543d95d7ffce6ee22e9cfcdc77b545?rik=3P%2biVy9U7NGz6g&pid=ImgRaw&r=0",
+        "answer": "او با آلبوم‌هایی چون «نسیم وصل» (1382)، «ایران من» (1398) و همکاری با پدرش محمدرضا شجریان فعالیت کرده است",
+        "answer_name": "همایون شجریان",
+        "category": "art_music"
+    },
+    {
+        "question":"این شاعر در چه سالی درگذشت؟",
+        "image_url": "https://tse2.mm.bing.net/th/id/OIP.ExDlWxIGjqpW6nD6ng3t1gHaFL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "براهنی در 5 فروردین 1401 درگذشت",
+        "answer_name": "رضا براهنی",
+        "category": "poets"
+    },
+    {
+        "question":"این فرد کیست و در چه سالی درگذشت؟",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.D05hnHmRRtotHo6HhQeotwHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "قیصر امین‌پور، شاعر دوره پهلوی و جمهوری اسلامی، در سال 1338 شمسی در گتوند زاده شد و در سال 1386 شمسی در تهران درگذشت.",
+        "answer_name": "قیصر امین‌پور",
+        "category": "poets"
+    },
+    {
+        "question":"آرامگاه این فرد در کجا قرار دارد؟",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.FOHfuDG4QTNnNTeeiYXF_gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "او در 2 اردیبهشت 1330 خورشیدی در تهران درگذشت و آرامگاهش در شمیران قرار دارد",
+        "answer_name": "محمدتقی بهار",
+        "category": "poets"
+    },
+    {
+        "question":"این فرد چه آثاری خلق کرده است؟",
+        "image_url": "https://tse4.mm.bing.net/th/id/OIP.jmSfNbyoI_UJgSgWdg7PJgHaFH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "answer": "او آثاری مانند «خاطرات انهدام» و «هویت: در ستایش ساندرو بوتیچلی» خلق کرد",
+        "answer_name": "آیدین آغداشلو",
+        "category": "art_music"
+    },
+    {
+        "question":"این شاعر چه آثاری دارد؟",
+        "image_url": "https://th.bing.com/th/id/R.20d72fd44870ac1fa9c0b30e9337abf6?rik=7wp1%2f9JnY7%2bcQg&riu=http%3a%2f%2fbiographyha.com%2fwp-content%2fuploads%2f2014%2f04%2fManouchehr-ehterami-biographya-com-4.jpg&ehk=sFukI3v6%2ba8aXT5iHJ8Zop5sWh9RVByeXVX3xrRkBZg%3d&risl=&pid=ImgRaw&r=0",
+        "answer": " او آثاری چون حسنی نگو یه دسته گل و خروس نگو یه ساعت را برای کودکان نوشت",
+        "answer_name": "منوچهر احترامی",
+        "category": "poets"
+    }
+    
+]

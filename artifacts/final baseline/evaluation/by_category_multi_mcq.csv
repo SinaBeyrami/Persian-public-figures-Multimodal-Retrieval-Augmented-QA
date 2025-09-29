@@ -1,0 +1,5 @@
+﻿category,n,accuracy
+poets,6,0.8333333333333334
+politicians,5,0.8
+athlete,20,0.75
+art_music,19,0.47368421052631576

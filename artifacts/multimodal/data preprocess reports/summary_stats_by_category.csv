@@ -1,0 +1,6 @@
+category,records,summary_present,summary_present_%,char_len_mean,char_len_median,char_len_p25,char_len_p75,word_count_mean,word_count_median
+art_music,468.0,468.0,100.0,310.78,266.5,174.75,374.0,66.23,55.5
+athlete,2329.0,2329.0,100.0,181.83,150.0,94.0,230.0,34.44,29.0
+poets,203.0,203.0,100.0,299.46,297.0,161.5,396.0,62.01,61.0
+politicians,981.0,981.0,100.0,308.49,301.0,229.0,373.0,63.53,62.0
+scientists,111.0,111.0,100.0,319.59,338.0,180.0,425.5,64.98,70.0

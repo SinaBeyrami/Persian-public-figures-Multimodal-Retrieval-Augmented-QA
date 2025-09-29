@@ -1,0 +1,13 @@
+{
+  "n_rows": 90,
+  "top1_accuracy": 0.8777777777777778,
+  "coverage_predicted": 0.9222222222222223,
+  "in_options_rate": 0.8888888888888888,
+  "evidence_text_rate": 1.0,
+  "evidence_located_rate": 0.5666666666666667,
+  "supported_accuracy": 0.9607843137254902,
+  "unsupported_accuracy": 0.7692307692307693,
+  "pred_evidence_consistency_rate": 0.7469879518072289,
+  "gold_evidence_consistency_rate": 0.6666666666666666,
+  "retrieval_ceiling_gold_in_ctx": 0.15555555555555556
+}
