@@ -181,6 +181,72 @@ This dataset includes real people. Please use it responsibly:
 
 ---
 
+## Baseline (No-RAG, zero-shot GPT-4o / GPT-4o-mini)
+
+This baseline **does not use our retrieval or indices**. It answers the same test sets with a zero-shot LLM (Persian prompts), so it reflects a *model-only* prior.
+
+**Covers**
+
+* **Text MCQ (90)** → `Questions/mcq_questions_90.json`
+* **Multimodal MCQ (50)** → `Questions/mcq_with_image_50_final.json` (image passed when supported)
+* **Multimodal Open-ended (50)** → `Questions/multi_with_image_50_newV.json` (LLM-as-judge)
+* **Unimodal Open-ended (110)** → `Questions/uni_questions_110.json` (LLM-as-judge)
+
+**Key ideas**
+
+* Persian **normalization** (Arabic→Persian chars, digit unification, ZWNJ/controls stripped).
+* MCQ answers are **forced to be one of the given options** (normalized match).
+* Optional **self-consistency** for MCQ (vote over multiple samples).
+* Open-ended sets use **LLM-as-judge** returning a single token: **«بله/خیر»**.
+* If image input isn’t supported by the endpoint, the code **falls back to text-only**.
+
+**How to run**
+
+1. Open the notebook **`Final_RAG_API_Baseline.ipynb`**.
+2. Set credentials **via environment variables** (don’t hard-code keys):
+
+   ```bash
+   export API_KEY=...          # your key
+   export BASE_URL=https://api.gapgpt.app/v1   # or your provider
+   ```
+3. Ensure the question JSONs exist under `Questions/` as listed above.
+4. (Optional) Toggle flags in the notebook:
+
+   * `USE_SELF_CONSISTENCY` (default `False`), `SC_SAMPLES`, `SC_TEMPERATURE`
+   * `SUPPORTS_IMAGE_MESSAGES` (`True` if your endpoint accepts image content)
+
+**Outputs (written to `rag_out/baseline/`)**
+
+* `baseline_text_MCQ_outputs.csv`
+* `baseline_multimodal_MCQ_outputs.csv`
+* `baseline_multimodal_NO_OPTIONS_outputs.csv`
+* `baseline_unimodal_NO_OPTIONS_outputs_4o.csv` and/or `_4o_mini.csv`
+
+Each CSV includes `is_correct` (0/1) and adds `category` by joining to the question files.
+
+**Baseline evaluation (auto-generated) → `rag_out/baseline/evaluation/`**
+
+* Tables:
+
+  * `overall_summary.csv` (accuracy per set)
+  * `by_category_<set>.csv`, `per_question_<set>.csv`, `hardest_<set>.csv`
+  * `agg_by_category_all_sets.csv`
+* Figures:
+
+  * `accuracy_by_set.png`
+  * `accuracy_by_category_<set>.png`, `count_by_category_<set>.png`
+  * `accuracy_by_category_all_sets.png`
+  * `per_question_correctness_map.png`
+  * `accuracy_heatmap_category_model.png`
+  * `category_accuracy_radar.png`
+  * `rationale_length_boxplots.png` (for MCQ sets)
+
+**Scoring**
+
+* **MCQ**: exact (normalized) match of `predicted_option` vs `answer`.
+* **Open-ended**: judge model returns «بله/خیر» for semantic equivalence; accuracy is mean of `is_correct`.
+
+---
 
 # Unimodal pipeline (text-only): MCQ & without-options
 
