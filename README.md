@@ -246,6 +246,20 @@ Each CSV includes `is_correct` (0/1) and adds `category` by joining to the quest
 * **MCQ**: exact (normalized) match of `predicted_option` vs `answer`.
 * **Open-ended**: judge model returns «بله/خیر» for semantic equivalence; accuracy is mean of `is_correct`.
 
+<div align="center">
+
+<img src="artifacts/final baseline/evaluation/accuracy_by_category_all_sets.png" alt="Accuracy conditioned on retrieval rank" width="70%"><br>
+<sub><em>Baseline accuracy on each question set by category</em></sub>
+
+</div>
+
+<div align="center">
+
+<img src="artifacts/final baseline/evaluation/category_accuracy_radar.png" alt="Accuracy conditioned on retrieval rank" width="70%"><br>
+<sub><em>Baseline accuracy by category radar</em></sub>
+
+</div>
+
 ---
 
 # Unimodal pipeline (text-only): MCQ & without-options
